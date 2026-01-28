@@ -62,11 +62,6 @@ streamlit run app.py
 - **Department:** Computer Science  
 - **Academic Year:** 2025–26  
 
-### 👨‍💻 Team Members
-- Tanish  
-- Utkarsh  
-- Adhisha  
-
 ---
 
 ## 📌 Disclaimer
